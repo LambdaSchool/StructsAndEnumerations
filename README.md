@@ -1,6 +1,6 @@
 # StructsAndEnumerations
 
-This project will help you practice the skills and concepts you learned related to arrays in Swift. 
+This project will help you practice the skills and concepts you learned related to Structs and Enumerations in Swift. 
 
 This project is all done in playgrounds. Follow the instructions below:
 
