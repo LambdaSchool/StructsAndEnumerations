@@ -8,7 +8,7 @@ This project is all done in playgrounds. Follow the instructions below:
 
 1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/StructsAndEnumerations/archive/master.zip). 
 2. Unzip the downloaded file.
-3. Open the included SwiftArrays.playground file using Xcode
+3. Open the included StructsAndEnumerations.playground file using Xcode
 
 ### Do the Exercises
 
