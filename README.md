@@ -1,4 +1,4 @@
-# StructsAndEnumerations
+# Structs And Enumerations
 
 This project will help you practice the skills and concepts you learned related to Structs and Enumerations in Swift. 
 
