@@ -21,5 +21,3 @@ This playground consists of multiple pages. You can see all the pages by choosin
 2. Go to the next page by clicking the "Next" link at the bottom of the playground, or by selecting it in the files navigator on the left side.
 3. Repeat until you've completed all pages in the playground.
 4. Submit your finished work after you've completed all the excercises.
-
-The last page of the playground ("Fibonacci") includes two additional bonus problems if you finish early or want a further challenge.
