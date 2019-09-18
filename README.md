@@ -11,7 +11,7 @@ This assignment is broken up into smaller repl.it pages. Please go to and comple
 
 ### Mac Users:
 
-1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/StructAndEnumerations/archive/master.zip).
+1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/StructsAndEnumerations/archive/master.zip).
 2. Unzip the downloaded file.
 3. Open the included StructsAndEnumerations.playground file using Xcode if you are on a Mac. The playground has the instructions for the assignment in it.
 
